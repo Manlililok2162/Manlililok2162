@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on kanto-foods
+- 🌱 I’m currently learning PHP
+- 🤔 I’m looking for help with MySQLi vs PDO
+
 <!--
 **Manlililok2162/Manlililok2162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
