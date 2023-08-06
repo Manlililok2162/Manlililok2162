@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on kanto-foods
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PHP
 - 🤔 I’m looking for help with MySQLi vs PDO
 
