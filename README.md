@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning TypeScript & PHP
-- 🤔 I’m looking for help with MySQLi vs PDO
+- 🌱 I’m currently learning TypeScript, C++ & PHP
+<!-- - 🤔 I’m looking for help with MySQLi vs PDO -->
 
 <!--
 **Manlililok2162/Manlililok2162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
