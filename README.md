@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning PHP, JavaScript & C++
+- 🌱 I’m currently studying PHP, JavaScript & C++
 <!-- - 🤔 I’m looking for help with MySQLi vs PDO -->
 
 <!--
