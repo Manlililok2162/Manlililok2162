@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on practice projects.
-- 🌱 I’m currently studying .NET 8 and Java.
+- 🌱 I’m currently studying the Unity game engine.
 
 <!--
 **Manlililok2162/Manlililok2162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
