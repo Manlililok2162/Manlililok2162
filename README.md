@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on practice projects.
+- 🔭 I’m currently working on my capstone project.
 - 🌱 I’m currently studying Unity 6.
 
 <!--
